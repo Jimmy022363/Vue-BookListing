@@ -24,11 +24,11 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+import BookList from './components/BookList/BookList'
+//import HelloWorld from './components/HelloWorld'
 //import BookForm from './components/BookForm'
 //import BookList from './components/BookList'
 //import BookList2 from './components/BookList2'
-import BookList from './components/BookList/BookList'
 
 export default {
   name: 'App',
