@@ -24,11 +24,12 @@
 </template>
 
 <script>
-import BookList from './components/BookList/BookList'
+//import BookList from './components/BookList/BookList'
 //import HelloWorld from './components/HelloWorld'
 //import BookForm from './components/BookForm'
-//import BookList from './components/BookList'
+import BookList from './components/BookList'
 //import BookList2 from './components/BookList2'
+
 
 export default {
   name: 'App',
