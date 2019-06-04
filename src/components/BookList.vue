@@ -1,9 +1,9 @@
 <template>
     <div>
         <h1>{{ title }}</h1>
-        <ui>
+        <ul>
             <book-item v-for="book in books" :key='book.id' :book='book'></book-item>
-        </ui>
+        </ul>
     </div>
 </template>
 
@@ -31,7 +31,7 @@ export default {
     h1, h2 {
         font-weight: normal
     }
-    ui {
+    ul {
         list-style-type: none;
         padding: 0;
     }
