@@ -34,7 +34,7 @@ import BookList from './components/BookList'
 export default {
   name: 'App',
   components: {
-    BookList
+    BookList,
   },
   data () {
     return {
