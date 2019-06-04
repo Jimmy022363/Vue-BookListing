@@ -10,7 +10,7 @@
 import BookList from './components/BookList'
 
 export default {
-  name: 'App',
+  name: 'app',
   components: {
     BookList,
   },
