@@ -12,7 +12,7 @@ export default {
     props: ['books'],
     data() {
         return {
-            bookTtile: '',
+            bookTitle: '',
             bookAuthor: ''
         }
     },
