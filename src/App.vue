@@ -17,7 +17,7 @@
 
     <v-content>
       <img src="./assets/logo.png">
-      <book-list/>
+      <BookList/>
     </v-content>
 
   </v-app>
